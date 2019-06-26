@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1560884112 source:c:\users\apyr\desktop\abm\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Input.h"
+
+1560884112 c:\users\apyr\desktop\abm\input.h
+
+1561181911 source:c:\users\apyr\desktop\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1561182888 source:c:\users\apyr\desktop\abm\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561182634 c:\users\apyr\desktop\abm\linkedlist.h
+
+1561182942 source:c:\users\apyr\desktop\abm\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1561182401 c:\users\apyr\desktop\abm\employee.h
+
+1561504937 source:d:\2 -cosas personales\tp ruben sempai\utn\primer cuatrimestre\abm\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Input.h"
+
+1561502237 d:\2 -cosas personales\tp ruben sempai\utn\primer cuatrimestre\abm\linkedlist.h
+
+1561504498 d:\2 -cosas personales\tp ruben sempai\utn\primer cuatrimestre\abm\employee.h
+
+1560884112 source:d:\2 -cosas personales\tp ruben sempai\utn\primer cuatrimestre\abm\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Input.h"
+
+1560884112 d:\2 -cosas personales\tp ruben sempai\utn\primer cuatrimestre\abm\input.h
+
+1561504999 source:d:\2 -cosas personales\tp ruben sempai\utn\primer cuatrimestre\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Input.h"
+
+1561502237 source:d:\2 -cosas personales\tp ruben sempai\utn\primer cuatrimestre\abm\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
